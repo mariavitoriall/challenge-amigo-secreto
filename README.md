@@ -24,3 +24,5 @@ O projeto é composto pelos arquivos index.html (estrutura da aplicação em HTM
    git clone https://github.com/mariavitoriall/challenge-amigo-secreto.git
 
 2. Abra o arquivo index.html em um navegador.
+
+   Ou acesse: https://mariavitoriall.github.io/challenge-amigo-secreto/ 
