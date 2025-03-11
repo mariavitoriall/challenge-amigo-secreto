@@ -8,10 +8,10 @@ A aplicação permite que os usuários adicionem nomes de amigos a uma lista e r
 
 ## 🛠️ Funcionalidades
 
-- ✅ Adicionar nomes à lista de participantes.
-- ✅ Exibir a lista de amigos adicionados.
-- ✅ Realizar o sorteio de forma aleatória.
-- ✅ Exibir o nome sorteado na tela.
+- Adicionar nomes à lista de participantes.
+- Exibir a lista de amigos adicionados.
+- Realizar o sorteio de forma aleatória.
+- Exibir o nome sorteado na tela.
 
 ## 📂 Estrutura do Projeto
 
